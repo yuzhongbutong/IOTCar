@@ -4,5 +4,5 @@ applications:
   instances: 1
   domain: mybluemix.net
   name: sapphire
-  host: drivecar
+  host: sapphire
   disk_quota: 1024M
